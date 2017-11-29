@@ -1,0 +1,38 @@
+{
+  "name": "simple-react-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Navdude/simple-react-app.git"
+  },
+  "keywords": [
+    "React",
+    "Example",
+    "Hello",
+    "Word",
+    "\u001b[D\u001b[D\u001b[D\u001b[Cin",
+    "React"
+  ],
+  "author": "Navin Tyagi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Navdude/simple-react-app/issues"
+  },
+  "homepage": "https://github.com/Navdude/simple-react-app#readme",
+  "dependencies": {
+    "react": "^16.1.1",
+    "react-dom": "^16.1.1",
+    "webpack": "^3.8.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-react": "^6.24.1",
+    "webpack-dev-server": "^2.9.5"
+  }
+}
